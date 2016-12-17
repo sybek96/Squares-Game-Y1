@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JointProject2", "JointProject2\JointProject2\JointProject2.csproj", "{13EFDEDC-E4EA-4DCF-9348-B54537BF30AD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "JointProject2Content", "JointProject2\JointProject2Content\JointProject2Content.contentproj", "{FA5B67A2-00F6-4050-AC9E-28F289E1A067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13EFDEDC-E4EA-4DCF-9348-B54537BF30AD}.Debug|x86.ActiveCfg = Debug|x86
+		{13EFDEDC-E4EA-4DCF-9348-B54537BF30AD}.Debug|x86.Build.0 = Debug|x86
+		{13EFDEDC-E4EA-4DCF-9348-B54537BF30AD}.Release|x86.ActiveCfg = Release|x86
+		{13EFDEDC-E4EA-4DCF-9348-B54537BF30AD}.Release|x86.Build.0 = Release|x86
+		{FA5B67A2-00F6-4050-AC9E-28F289E1A067}.Debug|x86.ActiveCfg = Debug|x86
+		{FA5B67A2-00F6-4050-AC9E-28F289E1A067}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
